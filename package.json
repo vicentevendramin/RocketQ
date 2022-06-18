@@ -1,0 +1,24 @@
+{
+  "name": "rocketq",
+  "version": "1.0.0",
+  "description": "Desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página. Projeto da semana NLW Rocketseat, missão discover.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicentevendramin/RocketQ.git"
+  },
+  "keywords": [],
+  "author": "Vicente Vendramin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicentevendramin/RocketQ/issues"
+  },
+  "homepage": "https://github.com/vicentevendramin/RocketQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
